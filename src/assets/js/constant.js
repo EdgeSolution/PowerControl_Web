@@ -2,7 +2,7 @@
 const APPLICATIONTITLE = "WISE-PaaS/Android-DM";
 
 //footer release time
-const RELEASEDATE = "20200113";
+const RELEASEDATE = "20200401";
 const POWER = "AIM-Android";
 
 //show system app in app market

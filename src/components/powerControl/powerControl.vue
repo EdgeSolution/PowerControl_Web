@@ -24,6 +24,7 @@
                 
                 <el-switch
                 v-model="isRunning"
+                :disabled="isRunning"
                 @change="switchSolutionApp()">
                 </el-switch>
             </div>
