@@ -14,7 +14,8 @@
             :isDisabledOffDev="isDisabledOffDev">
             </select-device>
             <div class="info" v-show="!isInstalled&& defIsShow">
-                Power control app is not installed
+                Power control app is not installed.</br>
+                It can be installed through App Manager on AndroidDM
             </div>
 
             <div class="switchApp" v-show="isSingleMode&& isInstalled&& defIsShow">
